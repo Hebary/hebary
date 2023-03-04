@@ -6,7 +6,7 @@ I am an Frontend web developer with experience in the web development and the pr
 const Bernardo = {
   code : [ 'Javascript', 'Typescript', 'HTML', 'CSS', 'Java' ],
   tools: ['React', 'Node.js', 'Next.js', 'GIT', 'StoryBook', 'Docker', 'MongoDB'], 
-  architecture: [ 'MVC', 'Microservices', 'design system patterns', 'responsive-web-design' ] ,
+  architecture: [ 'MVC', 'Microservices', 'Design System Patterns', 'responsive-web-design' ] ,
 };
 
 ```
