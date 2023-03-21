@@ -4,8 +4,8 @@ I am an Frontend web developer with experience in the web development and the pr
 
 ```js
 const Bernardo = {
-  code : [ 'Javascript', 'Typescript', 'HTML', 'CSS', 'Java' ],
-  tools: ['React', 'Node.js', 'Spring-boot' 'Next.js', 'GIT', 'StoryBook', 'Docker', 'MongoDB'], 
+  code : [ 'Javascript', 'Typescript', 'Java' ],
+  tools: ['React', 'Node.js', 'Spring-boot' 'Next.js', 'GIT', 'Docker'], 
   architecture: [ 'MVC', 'Microservices', 'Design System Patterns', 'responsive-web-design' ] ,
 };
 
