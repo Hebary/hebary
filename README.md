@@ -5,7 +5,7 @@ I am an Frontend web developer with experience in the web development and the pr
 ```js
 const Bernardo = {
   code : [ 'Javascript', 'Typescript', 'HTML', 'CSS', 'Java' ],
-  tools: ['React', 'Node.js', 'Next.js', 'GIT', 'StoryBook', 'Docker', 'MongoDB'], 
+  tools: ['React', 'Node.js', 'Spring-boot' 'Next.js', 'GIT', 'StoryBook', 'Docker', 'MongoDB'], 
   architecture: [ 'MVC', 'Microservices', 'Design System Patterns', 'responsive-web-design' ] ,
 };
 
