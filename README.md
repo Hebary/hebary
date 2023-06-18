@@ -2,19 +2,9 @@
 
 I am an Frontend web developer with experience in the web development and the projects lifecycle. I am interested in UI, UX, Web Performance, Javascript, React, TypeScript, and all things related to Web.
 
-```js
-const Bernardo = {
-  code : [ 'Javascript', 'Typescript', 'Java' ],
-  tools: ['React', 'Node.js', 'Spring-boot' 'Next.js', 'GIT', 'Docker'], 
-  architecture: [ 'MVC', 'Microservices', 'Design System Patterns', 'responsive-web-design' ] ,
-};
-
-```
-
-
-- 🔭 I’m currently writing on React and Typescript.js
+- 🔭 I’m currently coding apps on React and Typescript.js using mostly Next.js 13+ with server components.
 - 👯 Would love to collaborate on anything related to Web
-- 🌱 Check some of my projects: [https://theotherway.netlify.app](Portfolio)
+- 🌱 Check some of my projects: [http://react-dev-ts.vercel.app]
 - 📫 Find me on: [https://linkedin.com/in/khoderb](Linkedin)
 
 
